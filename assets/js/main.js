@@ -18,7 +18,7 @@ $(function () {
             $(".navbar .navbar-brand img").attr("src", "assets/images/uniquepress_logo.png");
         } else {
             $(".navbar-area").addClass("sticky");
-            $(".navbar .navbar-brand img").attr("src", "assets/images/uniquepress_logo.png");
+            $(".navbar .navbar-brand img").attr("src", "assets/images/uniquepress_logo2.png");
         }
     });
 
