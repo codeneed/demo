@@ -1,5 +1,5 @@
 <?php
 
-require_once('main.html');
+require_once('home.html');
 
 ?>
